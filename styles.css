@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    background-color: #148150 ;
+}
+
+.center-text th,
+.center-text td{
+    text-align: center;   
+}
