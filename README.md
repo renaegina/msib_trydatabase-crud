@@ -1,5 +1,5 @@
 # msib_trydatabase-crud
-## Website form input data
+## Website Pengelolaan KRS
 Website ini merupakan website pengelolaan KRS Mahasiswa
 
 ## Features
