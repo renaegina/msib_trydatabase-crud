@@ -1,7 +1,6 @@
 # msib_trydatabase-crud
 ## Website Pengelolaan KRS
 Website ini merupakan website pengelolaan KRS Mahasiswa
-<p align="center"><img src="C:/Users/ACER/Documents/STUPEN_GITS.ID(FULL STACK WEB DEVELOPER)/PICTURE/Picture1.png" width="400" alt="Picture"></a></p>
 
 ## Features
 - Nama
