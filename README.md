@@ -1,8 +1,13 @@
 # msib_trydatabase-crud
+
 ## Website Pengelolaan KRS
+
 Website ini merupakan website pengelolaan KRS Mahasiswa
 
+<p align="center"><img src="Image/View.png" alt="Laravel Logo"></a></p>
+
 ## Features
+
 - Nama
 - NIM
 - Semester
@@ -13,7 +18,9 @@ Website ini merupakan website pengelolaan KRS Mahasiswa
 - Kelola
 
 ## Tech
+
 Website ini dirancang menggunakan:
+
 - [Visual Studio Code](https://code.visualstudio.com/docs/editor/vscode-web) : Visual Studio Code merupakan editor open source yang digunakan untuk pengembangan bahasa pemrograman.
 - [Google Chrome](https://www.google.com/intl/id_id/chrome/) : Google Chrome merupakan web browser yang digunakan untuk mengakses berbagai situs web dan juga menampilkan halaman web.
 - [HTML] - Hypertext Markup Language: HTML merupakan bahasa markup yang ditetapkan sebagai standar dalam membuat dan merancang halaman web.
